@@ -14,9 +14,9 @@
 
 
 
-# Hackingtoolkit Menu 
+# BLITZ_ToolKit Menu 
 
-- [Anonymously Hiding Tools (6)](#anonymously-hiding-tools)
+- [Anonymously Hiding Tools]
 - [Information Gathering Tools (16)](#information-gathering-tools)
 - [Wordlist Generator (5)](#wordlist-generator)
 - [Wireless Attack Tools (9)](#wireless-attack-tools)
@@ -52,9 +52,9 @@
 
     https://github.com/rushimangrule/BLITZ_ToolKit.git
     
-    chmod +x hackingtoolkit
+    chmod +x BLITZ_ToolKit
     
-    cd hackingtoolkit
+    cd BLITZ_ToolKit
     
     sudo python3 htk.py
 
